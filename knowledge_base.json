@@ -1,0 +1,14 @@
+[
+  {
+    "id": "booking-delhi-1",
+    "category": "Booking",
+    "location": "Delhi",
+    "content": "To book a table at our Delhi outlet, call 1800-123-BBQ or visit our website. Walk-ins are allowed on weekdays."
+  },
+  {
+    "id": "booking-blr-1",
+    "category": "Booking",
+    "location": "Bangalore",
+    "content": "Bangalore customers can book via Zomato, Swiggy or directly on our website. Walk-ins depend on outlet capacity."
+  }
+]
